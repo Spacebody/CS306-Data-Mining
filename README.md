@@ -2,3 +2,4 @@
 Source codes of data mining
 
 - PageRank
+- Jaccard distance
