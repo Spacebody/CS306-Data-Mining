@@ -6,3 +6,4 @@ Source codes of data mining
 - Jaccard distance
 - Locality Sensitive Hashing
 - AMS
+- K-Means
