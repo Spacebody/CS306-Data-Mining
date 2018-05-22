@@ -7,3 +7,6 @@ Source codes of data mining
 - Locality Sensitive Hashing
 - AMS
 - K-Means
+- Recommander system:
+	+ Jaccard, Cosine
+	+ Hierarchical clustering
