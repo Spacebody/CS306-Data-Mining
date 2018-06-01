@@ -10,3 +10,4 @@ Source codes of data mining
 - Recommander system:
 	+ Jaccard, Cosine
 	+ Hierarchical clustering
+- Social network analysis
