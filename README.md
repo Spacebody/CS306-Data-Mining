@@ -11,3 +11,5 @@ Source codes of data mining
 	+ Jaccard, Cosine
 	+ Hierarchical clustering
 - Social network analysis
+- Dimensionality reduction
+	+ SVD
